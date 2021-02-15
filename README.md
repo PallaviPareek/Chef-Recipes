@@ -45,21 +45,11 @@ We drew inspiration from apps that we've used and collated them together onto a 
 
 <img src="https://github.com/PallaviPareek/Chef-Recipes/blob/main/screenshot-1.PNG" width="500" height="500">
 
-#### Rapid prototyping
-
-<img src="https://i.imgur.com/WPhLMTU.jpg" width="500">
-
 ---
 
 ### Building in Figma
 
 [Click here for Figma Prototype link](https://www.figma.com/file/G2FduaeR6RYVzO6CPon4xU/Chef-Up?node-id=0%3A1)
-
-#### Fixed components
-
-These are componenets designed to be re-used throughout the app
-
-<img src="https://i.imgur.com/PFlLUfJ.png" width="200"><img src="https://i.imgur.com/JbBEuu3.png" width="500">
 
 #### User journey sketching 
 
