@@ -3,7 +3,7 @@
 
 A cooking app to match people who want to learn new home cooking styles, by finding a local chef to teach them how to cook authentic home made meals.
 
-<img src="https://github.com/PallaviPareek/Chef-Recipes/blob/main/Ingredients.PNG" width="500">
+<img src="https://github.com/PallaviPareek/Chef-Recipes/blob/main/Main%20Page.PNG" width="500">
 
 ---
 
@@ -48,7 +48,7 @@ As a team we brainstormed what we envisioned the user journey would be - both as
 
 #### Mood board
 
-[Click here for Figma Mood Board link](https://www.figma.com/file/6vYWzMYMMSOeIv9CrzRpS3/Prototyping-in-Figma?node-id=0%3A1)
+[Click here for Figma Mood Board link](https://www.figma.com/file/rK4LfrJg6haYk50ZbG44bU/Chef-Recipes?node-id=0%3A1)
 
 We drew inspiration from apps that we've used and collated them together onto a mood board
 
@@ -112,21 +112,21 @@ Connecting up our user journey sketches ready for testing
 
 | No. | User stories  | Estimates     | Value | Actuals       | Value |
 | :-------------: | ------------- |-------------| :----:|-------------| :----:|
-| 17 | I want to see lots of profile information to secure my confidence in booking/teaching | ⭐️⭐️⭐️⭐️ | 4 |  | - |
-| 18 | I want to filter my searches by cuisine, location, dietary requirements, allergies | ⭐️⭐️⭐️⭐️⭐️ | 5 |  | - |
-| 19 | I want to leave feedback on my local chefs and their recipes | ⭐️⭐️⭐️⭐️⭐️ | 5 |  | - |
-| 20 | I want to keep track of the lessons I've booked | ⭐️⭐️⭐️⭐️⭐️ | 5 |  | - |
-| 21 | I want to collect badges on my profile to show I am trustworthy  | ⭐️⭐️⭐️⭐️⭐️ | 5 |  | - |
+| 1 | I want to see lots of profile information to secure my confidence in booking/teaching | ⭐️⭐️⭐️⭐️ | 4 |  | - |
+| 2 | I want to filter my searches by cuisine, location, dietary requirements, allergies | ⭐️⭐️⭐️⭐️⭐️ | 5 |  | - |
+| 3 | I want to leave feedback on my local chefs and their recipes | ⭐️⭐️⭐️⭐️⭐️ | 5 |  | - |
+| 4 | I want to keep track of the lessons I've booked | ⭐️⭐️⭐️⭐️⭐️ | 5 |  | - |
+| 5 | I want to collect badges on my profile to show I am trustworthy  | ⭐️⭐️⭐️⭐️⭐️ | 5 |  | - |
 |   | **TOTAL** |  | **24** |  | **0** |
 
 ---
 
 ### Things we've learnt
 
-DESIGN
-Rapid prototyping
-User research
-User testing, using Figma to build a prototype
+- DESIGN
+- Rapid prototyping
+- User research
+- User testing, using Figma to build a prototype
 
 ---
 
