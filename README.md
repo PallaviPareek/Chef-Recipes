@@ -3,7 +3,7 @@
 
 A cooking app to match people who want to learn new home cooking styles, by finding a local chef to teach them how to cook authentic home made meals.
 
-<img src="https://i.imgur.com/QICZA8U.png" width="500">
+<img src="https://github.com/PallaviPareek/Chef-Recipes/blob/main/Ingredients.PNG" width="500">
 
 ---
 
